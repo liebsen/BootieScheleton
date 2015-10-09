@@ -2,7 +2,7 @@
 	"name": "bootie/scheleton",
 	"type": "project",
 	"description": "Tiny PHP 5 Framework Scheleton",
-	"keywords": ["php","mvc"],
+	"keywords": ["php","mvc","scheleton"],
 	"homepage": "http://bootie.devmeta.net",
 	"license": "MIT",
 	"require": {
