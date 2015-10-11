@@ -2,7 +2,7 @@
 
 <h3>PHP 5 Micro Web Application Framework</h3>
 <h5>Based on Micromvc by David Pennington</h5>
-<p>This is a Bootie Framework REST Example Project</p>
+<p>This is a Bootie Framework Scheleton Project</p>
 <p>You can see an <a href="http://bootie.devmeta.net">online demo of this project here</a></p>
 <p>You can see an <a href="https://github.com/martinfree/BootieProject">Integrated Example Project</a></p>
 <p>You can also clone a <a href="https://github.com/martinfree/BootieREST">REST Project Example</a></p>
